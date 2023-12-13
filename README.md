@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/ridzb/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hackathon%20Winner;Code%20Jam%20Participant;Top%201%25%20on%20GitHub;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hackathon%20Finalist;Poornima%20Hackathon;&center=true&width=550&height=40">
   </a>
 </p>
 
