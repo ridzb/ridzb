@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/ridzb/ridzb/header.png](https://github.com/ridzb/ridzb/blob/main/header.png)" alt="Header Image">
+  <img src="https://github.com/ridzb/ridzb/blob/main/header.png" alt="Header Image">
 </div>
 
 <h1 align="center">👋 Hey, I'm Riddhi Bhavsar!</h1>
